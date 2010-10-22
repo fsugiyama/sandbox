@@ -1,1 +1,2 @@
 foo@gmail.com
+bar@gmail.com
